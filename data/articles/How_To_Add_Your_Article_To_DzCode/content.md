@@ -1,4 +1,4 @@
-# How To Add Your Article To dzCode
+# How to Add Your Article to Dzcode
 
 This Tutorial will show you how to add your own article on our website [DzCode.io](https://dzcode.io)
 

@@ -1,4 +1,4 @@
-# A python website no framework needed part 1
+# A Python Website No Framework Needed Part 1
 
 Why would you want to build a website using python with no framework here is some reasons :
 

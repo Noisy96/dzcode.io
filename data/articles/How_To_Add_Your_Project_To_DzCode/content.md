@@ -1,4 +1,4 @@
-# How To Add Your Project To DzCode
+# How to Add Your Project to Dzcode
 
 This Tutorial will show you how to add your own Project on our website [DzCode.io](https://dzcode.io)
 
